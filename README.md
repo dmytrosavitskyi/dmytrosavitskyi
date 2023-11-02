@@ -4,4 +4,4 @@
 
 - 💻 I’m currently working on **Freelance Projects**
 - 🌱 I’m currently learning AI technology 
-- 👯 I’m looking to collaborate on **Angular2, Node.js, RoR Projects**
+- 👯 I’m looking to collaborate on **Angular2+, Node.js, RoR Projects**
