@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> I am **Dmytro Savitskyi**, a full-stack developer passionate about Flutter and Angular2+.
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> I am **Dmytro Savitskyi**, a full-stack developer passionate about Flutter, Angular2+ and Firebase.
 
 ## Currently
 
